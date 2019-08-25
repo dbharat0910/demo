@@ -1,0 +1,155 @@
+[
+    {
+      "title": "Fairy tales",
+      "author": "Hans Christian Andersen",
+      "isbn": "9350899199",
+      "imageLink": "images/fairy-tales.jpg",
+      "pages": 784,
+      "year": 1836,
+      "publisher": "Hannah Lyons",
+      "price": "₹ 291.00",
+      "genre": "Fairytales"
+    },
+    {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "isbn": "0199535644",
+      "imageLink": "images/the-divine-comedy.jpg",
+      "pages": 928,
+      "year": 1315,
+      "publisher": "La commedia",
+      "price": "₹ 281.00",
+      "genre": "Non-Fiction"
+    },
+    {
+      "title": "The Epic Of Gilgamesh",
+      "author": "Unknown",
+      "isbn": "0140441000",
+      "imageLink": "images/the-epic-of-gilgamesh.jpg",
+      "pages": 160,
+      "year": -1700,
+      "publisher": "Penguin Classics",
+      "price": "₹ 284.00",
+      "genre": "Fiction"
+    },
+    {
+      "title": "The Book Of Job",
+      "author": "Unknown",
+      "isbn": "9780763662387",
+      "imageLink": "images/the-book-of-job.jpg",
+      "pages": 176,
+      "year": -600,
+      "publisher": "Candlewick",
+      "price": "₹ 311",
+      "genre": "Non-Fiction"
+    },
+    {
+      "title": "One Thousand and One Nights",
+      "author": "Unknown",
+      "isbn": "978-1408827765",
+      "imageLink": "images/one-thousand-and-one-nights.jpg",
+      "pages": 288,
+      "year": 2013,
+      "publisher": "India Private Limited",
+      "price": "₹ 807",
+      "genre": "Non-Fiction"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn": "9788932404493",
+      "imageLink": "images/pride-and-prejudice.jpg",
+      "pages": 226,
+      "year": 1813,
+      "publisher": "Thomas Egerton",
+      "price": "₹ 315",
+      "genre": "Action and adventure"
+    },
+    {
+      "title": "Père Goriot",
+      "author": "Honoré de Balzac",
+      "isbn": "9781975798451",
+      "language": "French",
+      "pages": 443,
+      "year": 1835,
+      "publisher": " Revue de Paris",
+      "price": "₹ 1,139",
+      "genre": "Non-Fiction"
+    },
+    {
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "author": "Samuel Beckett",
+      "isbn": "978-0714541075",
+      "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+      "pages": 256,
+      "year": 1952,
+      "publisher": "Calder Publications Ltd",
+      "price": "₹ 314.30",
+      "genre": "Action and adventure"
+    },
+    {
+      "title": "The Decameron",
+      "author": "Giovanni Boccaccio",
+      "isbn": "9788852010859",
+      "imageLink": "images/the-decameron.jpg",
+      "pages": 1024,
+      "year": 1351,
+      "publisher": "Giunti",
+      "price": "₹ 374",
+      "genre": "Action and adventure"
+    },
+    {
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "isbn": "9780802130303",
+      "imageLink": "images/ficciones.jpg",
+      "pages": 224,
+      "year": 1965,
+      "publisher": "Grove Press",
+      "price": "₹ 311",
+      "genre": "Fiction"
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "isbn": "9788633300056",
+      "imageLink": "images/wuthering-heights.jpg",
+      "pages": 342,
+      "year": 1847,
+      "publisher": "Thomas Cautley Newby",
+      "price": "₹ 113",
+      "genre": "Action and adventure"
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "isbn": "9780679720201",
+      "imageLink": "images/l-etranger.jpg",
+      "pages": 185,
+      "year": 1942,
+      "publisher": "Vintage",
+      "price": "₹ 412.00",
+      "genre": "Fairytales"
+    },
+    {
+      "title": "Githanjali",
+      "author": "Rabindranath Tagore",
+      "isbn": "9787507827255",
+      "pages": 320,
+      "year": 1952,
+      "publisher": "Macmillan Publishers",
+      "price": "₹ 99",
+      "genre": "Fairytales"
+    },
+    {
+      "title": "Journey to the End of the Night",
+      "author": "Louis-Ferdinand Céline",
+      "isbn": "9780811208468",
+      "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
+      "pages": 505,
+      "year": 1932,
+      "publisher": "New Directions",
+      "price": "₹ 1,269.00",
+      "genre": "Action and adventure"
+    }
+  ]
